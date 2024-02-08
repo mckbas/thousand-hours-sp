@@ -1,5 +1,5 @@
 # thousand-hours-sp
-Logging 1000 hours of Spanish content
+Logging 1500 hours of Spanish content
 
 ## Language learning background | Experience with Spanish + current level
 🇺🇸 - native
